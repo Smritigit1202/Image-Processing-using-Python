@@ -11,8 +11,6 @@ This project provides extensive examples and introduces the essential Python lib
 ### 1. **PIL (Python Imaging Library)**
 PIL provides essential image-handling capabilities, including resizing, cropping, rotating, and color conversion. It allows easy manipulation of image data within Python. The library has been superseded by Pillow, a modern, user-friendly fork.
 
-- Official website: [PythonWare - PIL](http://www.pythonware.com/products/pil/)
-- Pillow is maintained by Alex Clark and contributors.
 
 ### 2. **Scikit-Image**
 Scikit-Image is a collection of algorithms for image processing and computer vision. It offers numerous utilities for image manipulation, enhancement, and analysis. Below are some key subpackages:
