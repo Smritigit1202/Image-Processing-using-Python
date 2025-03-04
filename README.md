@@ -1,7 +1,5 @@
 # Image as Data
 
-## Aim
-To read, write, and explore image data.
 
 ## Introduction
 Image data is commonly used to represent graphic or pictorial information. It consists of pixel-based representations that can be created, collected, and stored using image constructor devices. Various industry-standard formats, such as TIFF, GIF, and PCX, are used to store image data, making it accessible for different software applications, including GIS and image processing systems.
